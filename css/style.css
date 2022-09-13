@@ -17,8 +17,8 @@ h1{
  h2{
     font-size: 30px;
     color: #0D0D0D;
- }
-  
+   }
+ 
  p{
     font-size: 24px;
     padding-top: 10px;
@@ -59,12 +59,10 @@ h1{
     border-right: none;
     border-left-width: 5px;
 
-
-
     
    
   }
-  .blue{
+  div.blue {
      background-color: #0000FF;
      color: #C4C4C4;
      text-align: left;
