@@ -80,12 +80,13 @@ h1{
      border-left: 2px;
   }
 
-  
   footer{
-    background: linear-gradient(90deg, #000000 0%, #0000FF 25%,
+   background: linear-gradient(90deg, #000000 0%, #0000FF 25%,
                                       #0066ff 70%, #000000);
-   border-style: solid;
-   border-width: 5px;
+    border: solid 3px #FFFFFF;
+  }
+
+  footer p{
    font-size: 20px;
    text-align: right;
    padding-top: 15px;
